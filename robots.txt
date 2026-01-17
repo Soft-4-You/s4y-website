@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soft4you.dev/sitemap.xml
