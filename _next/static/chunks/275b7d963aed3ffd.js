@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,34856,t=>{"use strict";var o=t.i(25958);function r({children:t}){return(0,o.jsx)(o.Fragment,{children:t})}t.s(["SmoothScroll",()=>r])}]);
